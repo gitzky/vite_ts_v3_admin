@@ -2,8 +2,28 @@
 
 ## 生成基础框架
 
-推荐使用 ```Yarn``` 命令构建基础框架. ``` yarn create vite app --template vue-ts ```
+- 推荐使用 ```Yarn``` 命令构建基础框架
+  
+  ```cmd
+    yarn create vite app --template vue-ts
+    ...
+    cd app
+    yarn
+    ...
+    yarn run dev
+  ```
 
+## 基础框架配置
+
+- ```main.ts``` 入口文件配置 - 见./app/main.ts
+
+- ```index.html``` 入口文件配置 - 见./app/index.html
+
+- ```vite.config.ts``` 项目配置文件  - 见./app/vite.config.ts
+
+- ```package.json``` 依赖包运行环境等配置 - 见./app/package.json
+
+- ```.env,.env.development,env.production``` 环境配置 - 见./app/.env
 
 ### 3
 
