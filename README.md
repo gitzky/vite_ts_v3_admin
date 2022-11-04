@@ -1,6 +1,9 @@
-# 1
+# 使用 vite + typescript + vue3.0 搭建一个企业级的后台管理系统
 
-## 2
+## 生成基础框架
+
+推荐使用 ```Yarn``` 命令构建基础框架. ``` yarn create vite app --template vue-ts ```
+
 
 ### 3
 
